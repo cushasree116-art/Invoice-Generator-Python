@@ -1,4 +1,3 @@
-
 Flask → Web application
 Pandas → Data handling
 FPDF → PDF invoice generation
